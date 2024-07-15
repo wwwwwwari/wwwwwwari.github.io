@@ -1,13 +1,13 @@
 @import "theme_3024_colors.css";
 
 body{
-  background: url(../res/bg/bg.webp);
+  background: url(../res/bg/Grass_04.webp);
+  background-color: black;
   height: 0;
   padding-bottom: 53.027%;
   background-attachment: fixed;
   background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-repeat: repeat;
   color: white;
   font-family: monospace;
   font-size: 14pt;
