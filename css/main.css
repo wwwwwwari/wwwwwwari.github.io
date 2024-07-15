@@ -79,18 +79,19 @@ a.text-license-link{
 .cmd-section{
   margin-bottom: 1%;
 }
-.contact-svg{
+.contact-icon{
   width: 28px;
-  height: 36px;
+  height: 28px;
+  padding-bottom: 10px;
 }
-.contact-svg-text{
+.contact-icon-text{
   padding-left: 10px;
 }
-.contact-svg-text-1{
+.contact-icon-text-1{
   font-weight: bold;
   color: var(--red-themed);
 }
-.contact-svg-text-2{
+.contact-icon-text-2{
   font-weight: bold;
   color: var(--bright-red-themed);
 }
