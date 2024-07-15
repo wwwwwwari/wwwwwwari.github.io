@@ -8,19 +8,16 @@ body{
   background-size: cover;
   color: white;
   font-family: monospace;
-  font-size: 12pt;
+  font-size: 14pt;
 }
 a{
-  color: var(--blue-themed);
+  color: var(--red-themed);
   text-decoration: none;
   font-weight: bold;
 }
 a.text-license-link{
-  color: var(--bright-blue-themed);
+  color: var(--bright-red-themed);
   font-weight: normal;
-}
-div{
-  font-size: 12pt;
 }
 .center-container {
   display: flex;
@@ -53,17 +50,12 @@ div{
 }
 .menu-info-1{
   font-weight: bold;
-  color: var(--blue-themed);
   display: inline;
   padding-right: 2.5%;
 }
-.text-info-heading{
-  font-weight: bold;
-  color: var(--yellow-themed);
-}
 .text-info-1{
   font-weight: bold;
-  color: var(--red-themed);
+  color: var(--blue-themed);
   margin-right: 10px;
 }
 .text-info-row{
@@ -96,9 +88,9 @@ div{
 }
 .contact-svg-text-1{
   font-weight: bold;
-  color: var(--red-themed);
+  color: var(--blue-themed);
 }
 .contact-svg-text-2{
   font-weight: bold;
-  color: var(--bright-red-themed);
+  color: var(--cyan-themed);
 }

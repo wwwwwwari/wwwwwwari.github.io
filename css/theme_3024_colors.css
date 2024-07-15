@@ -1,6 +1,6 @@
 :root{
 	--black-themed: #090300;
-	--red-themed: #db2d20;
+	--red-themed: #ed333b; /*modified from #db2d20 for accessibility*/
 	--green-themed: #01a252;
 	--yellow-themed: #fded02;
 	--blue-themed: #01a0e4;
