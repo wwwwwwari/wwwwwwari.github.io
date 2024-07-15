@@ -11,12 +11,12 @@ body{
   font-size: 14pt;
 }
 a{
-  color: var(--red-themed);
+  color: var(--blue-themed);
   text-decoration: none;
   font-weight: bold;
 }
 a.text-license-link{
-  color: var(--bright-red-themed);
+  color: var(--cyan-themed);
   font-weight: normal;
 }
 .center-container {
@@ -55,7 +55,7 @@ a.text-license-link{
 }
 .text-info-1{
   font-weight: bold;
-  color: var(--blue-themed);
+  color: var(--red-themed);
   margin-right: 10px;
 }
 .text-info-row{
@@ -88,9 +88,9 @@ a.text-license-link{
 }
 .contact-svg-text-1{
   font-weight: bold;
-  color: var(--blue-themed);
+  color: var(--red-themed);
 }
 .contact-svg-text-2{
   font-weight: bold;
-  color: var(--cyan-themed);
+  color: var(--bright-red-themed);
 }
