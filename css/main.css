@@ -55,6 +55,9 @@ a.text-license-link{
   display: inline;
   padding-right: 2.5%;
 }
+.text-info{
+  width: 100%;
+}
 .text-info-1{
   font-weight: bold;
   color: var(--red-themed);
