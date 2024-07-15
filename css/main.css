@@ -11,14 +11,15 @@ body{
   color: white;
   font-family: monospace;
   font-size: 14pt;
+  -webkit-text-size-adjust: none;
+  -moz-text-size-adjust: none;
+  -ms-text-size-adjust: none;
+  text-size-adjust: none;
 }
 a{
   color: var(--blue-themed);
   text-decoration: none;
   font-weight: bold;
-}
-ul{
-  font-size: 14pt; /*Firefox on Android needs this in addition to the one in body*/
 }
 a.text-license-link{
   color: var(--cyan-themed);
