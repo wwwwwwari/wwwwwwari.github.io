@@ -1,14 +1,5 @@
 @import "theme_3024_colors.css";
 
-@media only screen {
-
-   body { 
-      font-size: 2vh; 
-   }
-
-}
-
-
 body{
   background: url(../res/bg/Grass_04.webp);
   background-color: black;
@@ -19,7 +10,7 @@ body{
   background-repeat: repeat;
   color: white;
   font-family: monospace;
-  font-size: 1vw;
+  font-size: 2vh;
 }
 a{
   color: var(--blue-themed);
