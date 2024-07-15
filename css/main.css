@@ -17,6 +17,9 @@ a{
   text-decoration: none;
   font-weight: bold;
 }
+ul{
+  font-size: 14pt; /*Firefox on Android needs this in addition to the one in body*/
+}
 a.text-license-link{
   color: var(--cyan-themed);
   font-weight: normal;
