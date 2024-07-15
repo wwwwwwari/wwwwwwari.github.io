@@ -10,7 +10,7 @@ body{
   background-repeat: repeat;
   color: white;
   font-family: monospace;
-  font-size: 1vw;
+  font-size: 1vmax;
 }
 a{
   color: var(--blue-themed);
