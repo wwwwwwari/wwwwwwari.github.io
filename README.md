@@ -4,7 +4,7 @@ A GitHub Pages site to list my social media links.
 
 ## Licenses
 
-Social media SVG icons from Arcticons are licensed CC BY-SA 4.0. Any other files are licensed MIT.
+Social media SVG icons from Arcticons are licensed CC BY-SA 4.0. Arcticons Sans font is under SIL OFL 1.1. Any other files are licensed MIT.
 
 ## Credits
 
